@@ -1105,3 +1105,9 @@ img {
    height: 40px;
   }
 }
+
+@media screen and (min-width: 1700px){
+  .container{
+   margin-left: 18rem
+  }
+}
